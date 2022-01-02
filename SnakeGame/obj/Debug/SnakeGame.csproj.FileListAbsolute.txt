@@ -1,0 +1,7 @@
+D:\WWSI\2rok\programowanie\snake_project\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\WWSI\2rok\programowanie\snake_project\SnakeGame\bin\Debug\SnakeGame.exe
+D:\WWSI\2rok\programowanie\snake_project\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\WWSI\2rok\programowanie\snake_project\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\WWSI\2rok\programowanie\snake_project\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\WWSI\2rok\programowanie\snake_project\SnakeGame\obj\Debug\SnakeGame.exe
+D:\WWSI\2rok\programowanie\snake_project\SnakeGame\obj\Debug\SnakeGame.pdb
